@@ -1,0 +1,10 @@
+main {
+    padding: 50px;
+}
+
+/* Finns det något bättre sätt att lösa problemet att texten hamnar bakom menyn när den är fixerad? */
+
+
+p {
+    max-width: 500px;
+}
