@@ -1,0 +1,15 @@
+.fixed-top {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+body {
+    margin: 0 20px;
+}
+
+main {
+    padding-top: 80px;
+}
+
+/* FRÅGA: Finns det något bättre sätt att lösa problemet,
+ att texten hamnar bakom menyn när den är fixerad, än att sätta padding på main? */
